@@ -1,0 +1,33 @@
+h3,select
+{
+    display: inline-flex;
+}
+select
+{
+    margin-right: 20px;
+    margin-left: 700px;
+}
+#textarea1
+{
+height: 400px;
+width: 50%;
+}
+#textarea2
+{
+height: 150px;
+width: 50%;
+color: white;
+background-color: black;
+}
+body
+{
+    margin-left: 100px;
+    
+    margin-top: 20px;
+}
+button
+{
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 5px;
+}
